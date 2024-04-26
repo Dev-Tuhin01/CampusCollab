@@ -1,1 +1,1 @@
-# QAS: Quentessential Academic Management System
+# CampusCollab: Quentessential Academic Management System
