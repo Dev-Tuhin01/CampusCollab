@@ -1,6 +1,8 @@
 const Chat = ()=>{
   return (
-  <h1>This is chat section</h1>
+    <div className="bg-background-primary h-full">
+      <h1 className=" text-foreground-primary">This is <span className="text-Accent"> chat</span> section</h1>
+    </div>
   )
 }
 

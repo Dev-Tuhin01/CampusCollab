@@ -1,6 +1,8 @@
 const Notice=()=>{
   return (
-  <h1>This is Notice Section</h1>
+  <div className="h-full max-w-full bg-background-primary">
+
+    </div>
   )
 }
 
