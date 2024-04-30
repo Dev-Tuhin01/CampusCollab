@@ -11,7 +11,9 @@ export default {
       "foreground-secondary":"#CCC5B9",
       "background-secondary": "#403D39",
       "background-primary": "#252422",
-      "Accent":"#EB5E28"
+      "Accent":"#EB5E28",
+      "urgent":"#7f1d1d",
+      "important":"#365314",
     },
     extend: {
 
